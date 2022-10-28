@@ -4,3 +4,4 @@ scrapy
 scrapyd>=1.2.1
 scrapy-redis
 logparser>=0.8.2
+twisted>=22.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
